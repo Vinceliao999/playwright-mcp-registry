@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "id": "playwright",
+      "name": "Playwright MCP",
+      "description": "Browser automation tools via Playwright MCP",
+      "manifest_url": "https://vinceliao999.github.io/playwright-mcp-registry/manifest.json",
+      "categories": ["automation","browser","testing"],
+      "version": "1.0.0",
+      "latest": true
+    }
+  ]
+}
