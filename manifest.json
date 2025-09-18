@@ -1,0 +1,14 @@
+{
+  "id": "playwright",
+  "name": "Playwright MCP",
+  "version": "1.0.0",
+  "description": "Run browser automation and testing via Playwright MCP",
+  "tools": [
+    {
+      "id": "browser-automation",
+      "name": "Browser Automation",
+      "command": "npx @playwright/mcp@latest"
+    }
+  ],
+  "categories": ["automation","testing","browser"]
+}
